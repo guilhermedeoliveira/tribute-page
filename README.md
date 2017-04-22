@@ -8,7 +8,6 @@ Build a tribute page to practise applied responsive web design.
 
 ## CSS Frameworks
 
-- [Bootstrap](http://getbootstrap.com/)
 - [Materialize](http://materializecss.com/)
 
 ## TODO
@@ -16,4 +15,3 @@ Build a tribute page to practise applied responsive web design.
 - [X] Construct page with HTML5 semantic tags
 - [ ] Material design
 - [ ] Test responsive behavior
-
