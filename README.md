@@ -13,5 +13,5 @@ Build a tribute page to practise applied responsive web design.
 ## TODO
 
 - [X] Construct page with HTML5 semantic tags
-- [ ] Material design
+- [X] Material design
 - [ ] Test responsive behavior

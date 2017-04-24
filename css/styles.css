@@ -10,12 +10,37 @@ nav {
     line-height: 56px;
 }
 
+blockquote {
+    border-left: 5px solid #5cb85c;
+}
+
 .card {
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-	margin-top:-117px;
+	margin-top:-102px;
 	padding: 15px;
 }
 
 .title {
- margin-top: -2px;
+ margin-top: -12px;
+ padding-top: 10px;
+
+}
+
+.container-horizontal {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.container-vertical {
+	justify-content: space-between;
+	padding-left: 10px;
+}
+
+.green-color {
+	color: #5cb85c;
+}
+
+.main-text {
+	text-align: justify;
 }
